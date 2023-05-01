@@ -1,5 +1,5 @@
 # Machine-Learning-Titanic 
-# Projet L2I1 
+## Projet L2I1 (Université Paris Cité)
 ## Description
 
 Ce projet a été réalisé en 2023 dans le cadre de notre 2eme année de licence informatique à l'Université de Paris cité.
